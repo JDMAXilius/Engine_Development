@@ -1,0 +1,3 @@
+﻿D:\Documents\Full Sail University\Engine Development\MemoryManagement\Renderer\Renderer\shaders\ps_cube.hlsl(10,15-25): error X4502: invalid vs_2_0 output semantic 'SV_TARGET'
+  
+  compilation failed; no code produced
